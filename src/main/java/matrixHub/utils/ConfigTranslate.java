@@ -1,4 +1,4 @@
-package matrixHub.utils;
+package main.java.matrixHub.utils;
 
 import java.io.*;
 import java.util.Properties;

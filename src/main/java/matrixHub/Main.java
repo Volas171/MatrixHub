@@ -1,15 +1,14 @@
-package matrixHub;
+package main.java.matrixHub;
 
 import arc.Events;
-import arc.net.Server;
-import arc.util.*;
-
-import matrixHub.utils.*;
-
+import arc.util.CommandHandler;
+import arc.util.Log;
+import main.java.matrixHub.utils.Config;
 import mindustry.Vars;
-import mindustry.game.EventType.*;
+import mindustry.game.EventType.PlayerJoin;
+import mindustry.game.EventType.ServerLoadEvent;
 import mindustry.gen.Call;
-import mindustry.plugin.Plugin;
+import mindustry.mod.Plugin;
 
 public class Main extends Plugin{
 

@@ -1,10 +1,8 @@
-package matrixHub.utils;
+package main.java.matrixHub.utils;
 
 import mindustry.Vars;
-import mindustry.content.Mechs;
-import mindustry.entities.type.Player;
+import mindustry.gen.Player;
 import mindustry.gen.Call;
-import mindustry.type.Mech;
 
 
 public class Upd {
